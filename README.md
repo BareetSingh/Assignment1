@@ -15,7 +15,7 @@ To perform the task we have to run this application as a Springboot app And have
 After the successful operation, it will show the following text on the browser window.
 --->Data copied from Excel to Database(MySQL) Successfully.......
 # 
-During this, it will fetch data from the Excel sheet and insert that data into the database(MongoDb).
+During this, it will fetch data from the Excel sheet and insert that data into the database(MySQL).
 
 # Note
 You don't have to generate any table in the database. It will generate automatically, You only have to create the database and give the database name in the application.properties file.
